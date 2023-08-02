@@ -5,7 +5,7 @@
 
 - :bookmark_tabs:  Aqui poderá ver projetos concluídos e em desenvolvimento.
 
-- :mortar_board: Graduando Ánalise e Desenvolvimento de Sistemas.
+- :mortar_board: Graduando Ánalise e Desenvolvimento de Sistemas | Aluno <a href="https://rodolfomori.com.br/devclub/"> DevClub</a> curso de formação Full Stack Pro reconhecido pelo MEC.
 
 - :briefcase: Galgando minha carreira em busca de excelência e bom êxito.
 
