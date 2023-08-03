@@ -25,7 +25,7 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=ChristianFulco&show_icons=true&theme=radical" alt="ChristianFulco"/>
 <br>
-<img height="250px" src="https://github-readme-streak-stats.herokuapp.com/?user=ChristianFulco&&theme=radical" alt="ChristianFulco" />
+<img height="270px" src="https://github-readme-streak-stats.herokuapp.com/?user=ChristianFulco&&theme=radical" alt="ChristianFulco" />
 
 ## Social & Contato
 <a href="https://www.linkedin.com/in/christianfulco/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px"/></a><a href="https://www.facebook.com/christianpfulco/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30px" /></a> 
