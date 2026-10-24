@@ -27,7 +27,7 @@ Sou desenvolvedor Front-End em formação e estudante de Análise e Desenvolvime
 ##
 | My Statistics | Top Languages |
 | --- | --- |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianFulco&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianFulco&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianFulco&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](./assets/top-languages.svg) |
 
 | My Streak |
 | --- |
