@@ -7,6 +7,10 @@
 
 Sou desenvolvedor Front-End em formação e estudante de Análise e Desenvolvimento de Sistemas. Crio projetos com JavaScript, TypeScript, HTML e CSS, e também desenvolvo ferramentas e automações com Python e PowerShell. Estou construindo o Cérebro IA, um projeto para organizar ferramentas de inteligência artificial e apoiar pesquisa, produtividade e desenvolvimento. Aqui compartilho meus projetos, experimentos e minha evolução na tecnologia.
 
+## Projeto em destaque
+
+- **[Cérebro IA](https://github.com/ChristianFulco/cerebro-ia)** — assistente local para coordenar ferramentas de IA e notas selecionadas do Obsidian. **Repositório privado.**
+
 ## Linguagens e ferramentas
 <p>
   <img width="36" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
