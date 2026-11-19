@@ -4,6 +4,8 @@
 
 <br/>
 
+<img src="./assets/pixel-rain.svg" alt="Animação Anjo Digital" width="100%"/>
+
 ![Google Ads](https://img.shields.io/badge/Google_Ads-Certified-00e676?style=for-the-badge&logo=googleads&logoColor=black&labelColor=0b1410)
 ![Analytics](https://img.shields.io/badge/Google_Analytics-Certified-00e676?style=for-the-badge&logo=googleanalytics&logoColor=black&labelColor=0b1410)
 ![AI/ML](https://img.shields.io/badge/AI_%26_Machine_Learning-Studying-c9a24a?style=for-the-badge&labelColor=0b1410)
