@@ -13,40 +13,23 @@
 
 </div>
 
-```text
-$ whoami
-> Christian Fulco — CEO @ Anjo Digital (Curitiba, BR)
+<img src="./assets/terminal.svg" alt="Terminal: Christian Fulco, CEO da Anjo Digital" width="100%"/>
 
-$ cat about.txt
-> Agência de marketing digital e desenvolvimento web, fundada há 3 anos.
-> Sites de alta performance + Google Ads + Analytics + SEO local.
-> Cursando Inteligência Artificial e Machine Learning.
-> Construindo produtos próprios: Anjo 360 Tour e Cérebro IA.
-```
+<img src="./assets/h-experiencia.svg" alt="experiência" width="100%"/>
 
-## `> experiência`
+<img src="./assets/cards-experiencia.svg" alt="Frentes: Web, Tráfego pago, Mensuração, Presença local, IA e automação" width="100%"/>
 
-| Frente | O que eu entrego |
-| --- | --- |
-| **Web** | Sites institucionais, landing pages e plataformas (HTML, CSS, JS, TypeScript, React, Next.js, Vite) |
-| **Tráfego pago** | Google Ads (Rede de Pesquisa), métricas e otimização de conversão |
-| **Mensuração** | Google Analytics, GTM, eventos e dashboards |
-| **Presença local** | 56 Perfis de Empresa no Google sob gestão: SEO local, avaliações, atualizações |
-| **IA & automação** | Python e PowerShell, fluxos com IA para pesquisa, conteúdo e relatórios |
 
 Atendo clientes de varejo, saúde, serviços automotivos, alimentação, beleza e indústria. Estudos de caso sob demanda.
 
-## `> projetos`
+<img src="./assets/h-projetos.svg" alt="projetos" width="100%"/>
 
-| Projeto | Descrição | Stack |
-| --- | --- | --- |
-| **Anjo 360 Tour** | Editor de tours virtuais 360° com mapa, hotspots e publicação no Google Street View | Python, FastAPI, SQLite, Marzipano, Google Maps/Places |
-| **Cérebro IA** | Orquestração local de modelos de IA com notas do Obsidian | Python, PowerShell, Ollama, Gemini |
-| **Sites de clientes** | Projetos entregues na Anjo Digital (código privado, demonstração sob pedido) | HTML, CSS, JS, React, Next.js |
+<img src="./assets/cards-projetos.svg" alt="Projetos: Anjo 360 Tour, C.E.C.I.L.I.A, Cérebro IA e sites de clientes" width="100%"/>
+
 
 Repositórios de clientes ficam privados por contrato.
 
-## `> certificações`
+<img src="./assets/h-certificacoes.svg" alt="certificações" width="100%"/>
 
 Todas emitidas pelo Google em outubro de 2026 (validade de 1 ano):
 
@@ -58,7 +41,7 @@ Todas emitidas pelo Google em outubro de 2026 (validade de 1 ano):
 - Aumente as vendas off-line
 - Em andamento: Google Product Expert
 
-## `> stack`
+<img src="./assets/h-stack.svg" alt="stack" width="100%"/>
 
 <p>
   <img width="36" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
@@ -78,7 +61,7 @@ Todas emitidas pelo Google em outubro de 2026 (validade de 1 ano):
 | --- | --- |
 | ![Top Languages](./assets/top-languages.svg) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianFulco&show_icons=true&hide_border=true&count_private=true&theme=dark&bg_color=030806&title_color=00e676&icon_color=c9a24a&text_color=b8cbc2) |
 
-## `> contato`
+<img src="./assets/h-contato.svg" alt="contato" width="100%"/>
 
 <div>
   <a href="https://www.linkedin.com/in/christianfulcoanjodigital/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>

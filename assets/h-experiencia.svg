@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="56" viewBox="0 0 860 56" role="img" aria-label="experiência">
+<style>
+.t{font:700 26px Consolas,'SF Mono','Courier New',monospace;fill:#f1f5f3}
+.g{fill:#00e676}
+.cur{animation:b 1s steps(2,start) infinite}@keyframes b{to{visibility:hidden}}
+.sw{animation:sw 3.2s ease-in-out infinite}@keyframes sw{0%{transform:translateX(-220px)}100%{transform:translateX(860px)}}
+</style>
+<defs><linearGradient id="gr" x1="0" x2="1"><stop offset="0" stop-color="#00e676" stop-opacity="0"/><stop offset=".5" stop-color="#00e676"/><stop offset="1" stop-color="#5cc8ff" stop-opacity="0"/></linearGradient>
+<clipPath id="cp"><rect x="0" y="46" width="860" height="3"/></clipPath></defs>
+<text class="t" x="4" y="34"><tspan class="g">&gt; </tspan>experiência<tspan class="g cur"> _</tspan></text>
+<rect x="0" y="46" width="860" height="2" fill="#1f2a24"/>
+<g clip-path="url(#cp)"><rect class="sw" x="0" y="46" width="220" height="3" fill="url(#gr)"/></g>
+</svg>

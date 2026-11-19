@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="334" viewBox="0 0 860 334" role="img" aria-label="Terminal: Christian Fulco, CEO da Anjo Digital">
+<style>
+.c0{animation:k0 20s infinite;animation-timing-function:steps(8,end)}@keyframes k0{0%,5.00%{transform:translateX(0)}9.00%,95%{transform:translateX(82px)}100%{transform:translateX(0)}}
+.c1{animation:k1 20s infinite;animation-timing-function:steps(56,end)}@keyframes k1{0%,10.75%{transform:translateX(0)}23.35%,95%{transform:translateX(543px)}100%{transform:translateX(0)}}
+.c3{animation:k3 20s infinite;animation-timing-function:steps(15,end)}@keyframes k3{0%,27.10%{transform:translateX(0)}31.10%,95%{transform:translateX(150px)}100%{transform:translateX(0)}}
+.c4{animation:k4 20s infinite;animation-timing-function:steps(72,end)}@keyframes k4{0%,32.85%{transform:translateX(0)}49.05%,95%{transform:translateX(697px)}100%{transform:translateX(0)}}
+.c5{animation:k5 20s infinite;animation-timing-function:steps(65,end)}@keyframes k5{0%,50.80%{transform:translateX(0)}65.42%,95%{transform:translateX(630px)}100%{transform:translateX(0)}}
+.c6{animation:k6 20s infinite;animation-timing-function:steps(54,end)}@keyframes k6{0%,67.18%{transform:translateX(0)}79.33%,95%{transform:translateX(524px)}100%{transform:translateX(0)}}
+.c7{animation:k7 20s infinite;animation-timing-function:steps(75,end)}@keyframes k7{0%,81.08%{transform:translateX(0)}97.95%,95%{transform:translateX(726px)}100%{transform:translateX(0)}}
+.cur{animation:b 1s steps(2,start) infinite}@keyframes b{to{visibility:hidden}}
+.glow{animation:gl 4s ease-in-out infinite}@keyframes gl{0%,100%{stroke-opacity:.35}50%{stroke-opacity:.9}}
+</style>
+<rect x="1" y="1" width="858" height="332" rx="12" fill="#0f1a15" stroke="#00e676" stroke-opacity=".5" class="glow"/>
+<rect x="1" y="1" width="858" height="34" rx="12" fill="#08120d"/>
+<circle cx="24" cy="18" r="5.5" fill="#ff5f56"/><circle cx="44" cy="18" r="5.5" fill="#ffbd2e"/><circle cx="64" cy="18" r="5.5" fill="#27c93f"/>
+<text x="430" y="23" fill="#8b9aa5" font-size="13" font-family="Consolas,'SF Mono','Courier New',monospace" text-anchor="middle">christian@anjo-digital: ~</text>
+<text x="30" y="64" fill="#00e676" font-size="16" font-family="Consolas,'SF Mono','Courier New',monospace">$ whoami</text>
+<rect class="c0" x="30" y="45" width="82" height="26" fill="#0f1a15"/>
+<text x="30" y="94" fill="#c9d1d9" font-size="16" font-family="Consolas,'SF Mono','Courier New',monospace">&gt; Christian Fulco  |  CEO @ Anjo Digital  (Curitiba, BR)</text>
+<rect class="c1" x="30" y="75" width="543" height="26" fill="#0f1a15"/>
+<text x="30" y="154" fill="#00e676" font-size="16" font-family="Consolas,'SF Mono','Courier New',monospace">$ cat about.txt</text>
+<rect class="c3" x="30" y="135" width="150" height="26" fill="#0f1a15"/>
+<text x="30" y="184" fill="#c9d1d9" font-size="16" font-family="Consolas,'SF Mono','Courier New',monospace">&gt; Agência de marketing digital e desenvolvimento web, fundada há 3 anos.</text>
+<rect class="c4" x="30" y="165" width="697" height="26" fill="#0f1a15"/>
+<text x="30" y="214" fill="#c9d1d9" font-size="16" font-family="Consolas,'SF Mono','Courier New',monospace">&gt; Sites de alta performance + Google Ads + Analytics + SEO local.</text>
+<rect class="c5" x="30" y="195" width="630" height="26" fill="#0f1a15"/>
+<text x="30" y="244" fill="#c9d1d9" font-size="16" font-family="Consolas,'SF Mono','Courier New',monospace">&gt; Cursando Inteligência Artificial e Machine Learning.</text>
+<rect class="c6" x="30" y="225" width="524" height="26" fill="#0f1a15"/>
+<text x="30" y="274" fill="#c9d1d9" font-size="16" font-family="Consolas,'SF Mono','Courier New',monospace">&gt; Construindo produtos próprios: Anjo 360 Tour, C.E.C.I.L.I.A e Cérebro IA.</text>
+<rect class="c7" x="30" y="255" width="726" height="26" fill="#0f1a15"/>
+<rect class="cur" x="30" y="290" width="9" height="18" fill="#00e676"/>
+</svg>
